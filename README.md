@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://irutemacopadege-panini-5fe0f9.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://github.com/IrumaCode/my-team-page-master}">
       Solution
     </a>
     <span> | </span>
